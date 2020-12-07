@@ -16,6 +16,4 @@
 <p> localhost:3000 </p>
 <h3> Clone petpack-frontend and login or register </h3>
 <p> clone: https://github.com/DanielPorfiriadis/petpack-frontend </p>
-<h4> You can login with: </h4> 
-<p> Username: testuser</p> 
-<p> Password: testuser1! </p> 
+
